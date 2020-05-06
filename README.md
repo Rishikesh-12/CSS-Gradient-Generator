@@ -3,6 +3,6 @@ This web app lets you choose 2 color for your desired gradient and you end up ge
 
 
 ### Made up using
-*HTML
-*CSS
-*JAVASCRIPT
+  * HTML
+  * CSS
+  * JAVASCRIPT
